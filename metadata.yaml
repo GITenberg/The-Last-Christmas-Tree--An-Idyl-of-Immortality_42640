@@ -1,0 +1,31 @@
+_repo: The-Last-Christmas-Tree--An-Idyl-of-Immortality_42640
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42640-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Allen, James Lane
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '869'
+    url: http://www.gutenberg.org/2009/agents/869
+    wikipedia: http://en.wikipedia.org/wiki/James_Lane_Allen
+description: This fascinating fable from Kentucky-born author James Lane Allen imagines
+  a distant future in which the earth has plunged into frozen darkness, extinguishing
+  life as we know it. Only a few stalwart holdouts remain, including a pair of trees
+  that have retained a kind of memory of what came to pass before the life-killing
+  coldness moved in.
+gutenberg_issued: '2013-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42640'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'End of the world -- Fiction'
+- !lcc 'PS'
+title: 'The Last Christmas Tree: An Idyl of Immortality'
+url: http://www.gutenberg.org/ebooks/42640
